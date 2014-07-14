@@ -6,7 +6,7 @@ This is a standalone plugin for printing checks on stock paper with Zoho Books i
   - Multiple templates with JSON
   - Multiple Zoho Books organizations
   - No database required
-  - Lightweight < 30kb
+  - Lightweight < 500kb
  
 
 > Zoho Books does not provide a check printing feature which prevented our team from using this solution for one of our partners. We decided to use the Zoho Books API and create our own standalone solution that supported multiple check stocks and organizations within Zoho Books.

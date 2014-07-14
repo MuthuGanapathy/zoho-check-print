@@ -69,8 +69,8 @@
                     </a>.
                     <br/>
                     <p>
-                        <a class="btn btn-default" href="#">GitHub</a>
-                        <a class="btn btn-success" href="#">Zoho Books</a>
+                        <a class="btn btn-default" href="https://github.com/hookglobal/zoho-check-print">GitHub</a>
+                        <a class="btn btn-success" href="https://books.zoho.com">Zoho Books</a>
                     </p>
                 </p>
             </div>

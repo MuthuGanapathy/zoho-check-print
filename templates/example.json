@@ -1,0 +1,41 @@
+{
+    "template":{
+        "name":"example"
+    },
+
+    "fields":{
+        "payee":{
+            "left":"13%",
+            "top":"12.8%",
+            "font-size":"12px"
+        },
+
+        "memo":{
+            "left":"10%",
+            "top":"25.6%"
+        },
+
+        "amount":{
+            "left":"86%",
+            "top":"13%",
+            "css":"color:green;font-weight:bold"
+        },
+
+        "written-amount":{
+            "left":"10%",
+            "top":"16%"
+        },
+
+        "date":{
+            "left":"86%",
+            "top":"9%",
+            "format":"m/d/Y"
+        }
+    },
+
+    "check":{
+        "font-family":"Courier New",
+        "font-size":"14px",
+        "padding":"20px"
+    }
+}
